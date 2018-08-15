@@ -48,7 +48,7 @@ $modifiedDate = '{0:M/d/yy h:m tt}' -f $modifiedDate
 
 }
 Write-Output "Files moved: $contador";
-
+#Write-Output "Abby I love you !!!!"
 
 #$cow = Get-PnPListItem -Id 3397 -List "Data Bundles Document Library"
 #$source= $cow.FieldValues.FileRef
